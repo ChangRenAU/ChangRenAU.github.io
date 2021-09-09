@@ -15,7 +15,7 @@ company:
   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/Chang_Resume_2021.pdf"
 
 # a summary about you
 summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
@@ -25,27 +25,27 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "ciciren92@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/ChangRenAU"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/ChangRen"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/cecilia.ren.16"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

@@ -10,15 +10,15 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Ph.D in Computer Science
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2018-Present
   institution:
-    name: ABC University of Technology
+    name: Auburn University
     url: "#"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.6
+    achieved: 4
     outOf: 4
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -11,9 +11,9 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: Researcher.
     url: "https://www.example.com"
-    location: Dhaka Branch
+    location: Auburn University
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
@@ -36,29 +36,27 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
+    name: DIGITAL CHINA INFORMATION SYSTEM CO., LTD.
     url: "https://www.example.com"
-    location: Nowhere
+    location: Beijing, China
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Business Intelligence Engineer
+    start: June 2019
+    end: July 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Participated in the development of some modules of the Golden Tax Phase III Project Decision Support Platform.
+    - Language: JavaScript, SQL
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: TENBOON NETWORK TECHNOLOGY CO., LTD.
     url: "https://www.example.com"
-    location: Intern Land
+    location: Zhengzhou, China
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Software Engineer
+    start: Feb 2014
+    end: June 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Joined the start-up company established by my class leader in my senior year and engaged in design and development of website and software.
+    - Language: HTML, CSS, JavaScript

@@ -21,7 +21,7 @@ degrees:
     achieved: 4
     outOf: 4
   publications: #(optional)
-  - title: Integration of biological activity to global natural product social molecular networking A preliminary study to support user-friendly drug discovery.
+  - title: Integration of biological activity to global natural product social molecular networking - A preliminary study to support user-friendly drug discovery.
     url: "#"
 #   - title: Fusce eu augue ut odio porttitor pulvinar.
 #     url: "#"
@@ -60,7 +60,7 @@ degrees:
   timeframe: 2012-2016
   institution:
     name: NORTH CHINA UNIVERSITY OF WATER RESOURCES AND ELECTRIC POWER
-    url: "#"
+    url: "https://www5.ncwu.edu.cn/ncwuenglish/"
 #   grade: #(optional)
 #     scale: CGPA
 #     achieved: 3.5

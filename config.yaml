@@ -78,7 +78,7 @@ params:
   # Show tags under the post title
   enableTags: true
 
-  If you want to use different country flag for a language, specify them here.
+#   If you want to use different country flag for a language, specify them here.
   flagOverwrites:
   - languageCode: en
     countryCode: uk

@@ -12,7 +12,7 @@ section:
 experiences:
 - company:
     name: Auburn University
-    url: "https://www.example.com"
+    url: "http://www.auburn.edu"
     location: Auburn, AL
     # company overview
 #     overview: Auburn University
@@ -32,9 +32,9 @@ experiences:
 
 - company:
     name: DIGITAL CHINA INFORMATION SYSTEM CO., LTD.
-    url: "https://www.example.com"
+    url: "http://en.dcits.com"
     location: Beijing, China
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: An integrated service provider for the entire financial technology industry chain, DCITS, with more than three decades of experience in information construction, is a leader in the Chinese information industry and an implementer of Digital China. 
   positions:
   - designation: Business Intelligence Engineer
     start: June 2019
@@ -47,7 +47,7 @@ experiences:
     name: TENBOON NETWORK TECHNOLOGY CO., LTD.
     url: "https://www.tenboon.com"
     location: Zhengzhou, China
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Software Engineer
     start: Feb 2014

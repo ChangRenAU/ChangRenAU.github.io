@@ -11,29 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Researcher.
+    name: Auburn University
     url: "https://www.example.com"
-    location: Auburn University
+    location: Auburn, AL
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+#     overview: Auburn University
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Researcher in Drug Discovery and Development Lab
+    start: Jan 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Innovating an automated bioinformatics workflow with Dr.Calderon and a collaborative team to quicken the process of discovering new effective drugs from natural products.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Researcher in Human Computer Interaction Lab
+    start: Aug 2018
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Working with Dr. Seals to develop and improve APTgt, a web-based learning system designed to promote an approach to automated grading phonetics transcription coursework.
 
 - company:
     name: DIGITAL CHINA INFORMATION SYSTEM CO., LTD.
@@ -50,7 +45,7 @@ experiences:
 
 - company:
     name: TENBOON NETWORK TECHNOLOGY CO., LTD.
-    url: "https://www.example.com"
+    url: "https://www.tenboon.com"
     location: Zhengzhou, China
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:

@@ -1,6 +1,6 @@
 <!doctype html><html>
 <head>
-<title>Categories</title>
+<title>Notes</title>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="ie=edge">
@@ -12,13 +12,13 @@
 <link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel=stylesheet>
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css>
 <link rel=icon type=image/png href=/images/site/favicon_hub02d7508a1c89b2b7812eab204efeb9a_4223_42x0_resize_box_3.png>
-<meta property="og:title" content="Categories">
+<meta property="og:title" content="Notes">
 <meta property="og:description" content>
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://ChangRenAU.github.io/ch/categories/">
-<link rel=stylesheet href=/css/layouts/list.css>
+<meta property="og:url" content="https://ChangRenAU.github.io/cn/notes/">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css>
+<link rel=stylesheet href=/css/layouts/notes.css>
 <link rel=stylesheet href=/css/navigators/sidebar.css>
-<link rel=stylesheet href=/css/style.css>
 <script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-122321624-2','auto'),ga('send','pageview'))</script>
 <script async src=https://www.google-analytics.com/analytics.js></script>
 </head>
@@ -29,7 +29,7 @@
 <button class="navbar-toggler navbar-light" id=sidebar-toggler type=button onclick=toggleSidebar()>
 <span class=navbar-toggler-icon></span>
 </button>
-<a class=navbar-brand href=/ch>
+<a class=navbar-brand href=/cn>
 <img src=/images/site/main-logo_hu9ad2f25a877e6fef77c7a3dbef5094ad_6881_42x0_resize_box_3.png alt=Logo>
 Chang Ren</a>
 <button class="navbar-toggler navbar-light" id=toc-toggler type=button onclick=toggleTOC()>
@@ -37,18 +37,6 @@ Chang Ren</a>
 </button>
 <div class="collapse navbar-collapse lang-selector" id=top-nav-items>
 <ul class="navbar-nav ml-auto">
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>
-<span class="flag-icon flag-icon-ch"></span>
-简体中文
-</a>
-<div class=dropdown-menu aria-labelledby=languageSelector>
-<a class="dropdown-item nav-link languages-item" href=/categories>
-<span class="flag-icon flag-icon-gb"></span>
-English
-</a>
-</div>
-</li>
 </ul>
 </div>
 </div>
@@ -58,13 +46,13 @@ English
 <section class=sidebar-section id=sidebar-section>
 <div class=sidebar-holder>
 <div class=sidebar id=sidebar>
-<form class=mx-auto method=get action=/ch/search>
+<form class=mx-auto method=get action=/cn/search>
 <input type=text name=keyword placeholder=Search data-search id=search-box>
 </form>
 <div class=sidebar-tree>
 <ul class=tree id=tree>
-<li id=list-heading><a href=/ch/categories data-filter=all>Categories</a></li>
-<div class="subtree taxonomy-terms">
+<li id=list-heading><a href=/cn/notes data-filter=all>Notes</a></li>
+<div class=subtree>
 </div>
 </ul>
 </div>
@@ -73,7 +61,7 @@ English
 </section>
 <section class=content-section id=content-section>
 <div class="content container-fluid" id=content>
-<div class="container-fluid post-card-holder" id=post-card-holder>
+<div class="container-fluid note-card-holder" id=note-card-holder>
 </div>
 <div class=paginator>
 </div>
@@ -122,6 +110,9 @@ Toha
 <script type=text/javascript src=/js/navbar.js></script>
 <script type=text/javascript src=/js/plyr.js></script>
 <script type=text/javascript src=/js/main.js></script>
-<script src=/js/list.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js></script>
+<script src=/js/imagesloaded.pkgd.min.js></script>
+<script src=/js/note.js></script>
+<script>hljs.initHighlightingOnLoad()</script>
 </body>
 </html>

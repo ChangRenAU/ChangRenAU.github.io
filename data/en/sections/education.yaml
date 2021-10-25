@@ -27,7 +27,6 @@ degrees:
 #     url: "#"
 #   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #     url: "#"
-
 - name: MS in Computer Science
   icon: fa-university
   timeframe: 2016-2018
@@ -43,7 +42,6 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-
 - name: B.E. in Computer Science & Technology
   icon: fa-graduation-cap
   timeframe: 2012-2016
@@ -67,7 +65,6 @@ degrees:
     - name: Operating System
       achieved: 3.5
       outOf: 4
-
 #   publications: #(optional)
 #   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #     url: "#"
@@ -78,7 +75,3 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-  
-
-  
-

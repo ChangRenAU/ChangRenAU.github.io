@@ -10,12 +10,12 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-#   summary: Best presenter in the 2020 XYZ conference.
 - title: Champion
   image: /images/sections/achievements/sport.jpg
   summary: Champion in long jump of Campus Game.
+- title: Best Presenter
+  image: /images/sections/achievements/presenter.jpg
+#   summary: Best presenter in the 2020 XYZ conference.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
   summary: Received Master Degree in Computer Science and Engineer from Auburn University.

@@ -12,13 +12,13 @@ section:
 achievements:
 - title: Best Presenter
   image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
+#   summary: Best presenter in the 2020 XYZ conference.
 - title: Champion
   image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+  summary: Champion in long jump of Campus Game.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
   summary: Received Master Degree in Computer Science and Engineer from Auburn University.
 - title: Award Winner
   image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+#   summary: Wined best paper award at IEE Conference 2020.
